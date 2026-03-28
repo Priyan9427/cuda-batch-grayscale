@@ -1,0 +1,63 @@
+=== CUDA Batch Grayscale Converter ===
+GPU: NVIDIA L4
+CUDA devices found: 1
+
+Found 50 image(s) in: data/images
+
+Processing: image_0038.png -> image_0038_gray.png  [OK]  151.868 ms
+Processing: image_0047.png -> image_0047_gray.png  [OK]  28.1327 ms
+Processing: image_0029.png -> image_0029_gray.png  [OK]  27.2771 ms
+Processing: image_0003.png -> image_0003_gray.png  [OK]  28.4708 ms
+Processing: image_0021.png -> image_0021_gray.png  [OK]  26.0454 ms
+Processing: image_0012.png -> image_0012_gray.png  [OK]  30.7999 ms
+Processing: image_0030.png -> image_0030_gray.png  [OK]  27.262 ms
+Processing: image_0043.png -> image_0043_gray.png  [OK]  26.9226 ms
+Processing: image_0007.png -> image_0007_gray.png  [OK]  27.828 ms
+Processing: image_0025.png -> image_0025_gray.png  [OK]  28.7804 ms
+Processing: image_0016.png -> image_0016_gray.png  [OK]  27.9696 ms
+Processing: image_0034.png -> image_0034_gray.png  [OK]  29.4157 ms
+Processing: image_0049.png -> image_0049_gray.png  [OK]  28.6325 ms
+Processing: image_0041.png -> image_0041_gray.png  [OK]  28.7513 ms
+Processing: image_0005.png -> image_0005_gray.png  [OK]  29.3879 ms
+Processing: image_0023.png -> image_0023_gray.png  [OK]  27.1242 ms
+Processing: image_0050.png -> image_0050_gray.png  [OK]  28.6963 ms
+Processing: image_0014.png -> image_0014_gray.png  [OK]  25.9642 ms
+Processing: image_0032.png -> image_0032_gray.png  [OK]  28.0596 ms
+Processing: image_0001.png -> image_0001_gray.png  [OK]  29.7756 ms
+Processing: image_0010.png -> image_0010_gray.png  [OK]  26.9033 ms
+Processing: image_0045.png -> image_0045_gray.png  [OK]  27.165 ms
+Processing: image_0009.png -> image_0009_gray.png  [OK]  28.264 ms
+Processing: image_0027.png -> image_0027_gray.png  [OK]  27.4422 ms
+Processing: image_0018.png -> image_0018_gray.png  [OK]  27.7404 ms
+Processing: image_0036.png -> image_0036_gray.png  [OK]  27.7735 ms
+Processing: image_0039.png -> image_0039_gray.png  [OK]  27.5789 ms
+Processing: image_0048.png -> image_0048_gray.png  [OK]  28.1237 ms
+Processing: image_0004.png -> image_0004_gray.png  [OK]  29.374 ms
+Processing: image_0040.png -> image_0040_gray.png  [OK]  28.1854 ms
+Processing: image_0022.png -> image_0022_gray.png  [OK]  27.7835 ms
+Processing: image_0013.png -> image_0013_gray.png  [OK]  27.6726 ms
+Processing: image_0031.png -> image_0031_gray.png  [OK]  28.0251 ms
+Processing: image_0008.png -> image_0008_gray.png  [OK]  27.7226 ms
+Processing: image_0044.png -> image_0044_gray.png  [OK]  27.6743 ms
+Processing: image_0026.png -> image_0026_gray.png  [OK]  28.459 ms
+Processing: image_0017.png -> image_0017_gray.png  [OK]  27.3401 ms
+Processing: image_0035.png -> image_0035_gray.png  [OK]  27.377 ms
+Processing: image_0006.png -> image_0006_gray.png  [OK]  27.8373 ms
+Processing: image_0042.png -> image_0042_gray.png  [OK]  27.2857 ms
+Processing: image_0024.png -> image_0024_gray.png  [OK]  27.5979 ms
+Processing: image_0015.png -> image_0015_gray.png  [OK]  28.9159 ms
+Processing: image_0033.png -> image_0033_gray.png  [OK]  27.8816 ms
+Processing: image_0002.png -> image_0002_gray.png  [OK]  28.098 ms
+Processing: image_0020.png -> image_0020_gray.png  [OK]  27.382 ms
+Processing: image_0011.png -> image_0011_gray.png  [OK]  27.7066 ms
+Processing: image_0046.png -> image_0046_gray.png  [OK]  27.8761 ms
+Processing: image_0028.png -> image_0028_gray.png  [OK]  28.989 ms
+Processing: image_0019.png -> image_0019_gray.png  [OK]  28.3825 ms
+Processing: image_0037.png -> image_0037_gray.png  [OK]  26.9857 ms
+
+=== Summary ===
+Total images processed : 50
+Successful             : 50
+Failed                 : 0
+Total wall-clock time  : 1524.52 ms
+Output directory       : output

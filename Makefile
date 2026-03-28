@@ -6,7 +6,7 @@ NVCC        := nvcc
 CXX_FLAGS   := -std=c++17 -O2
 NVCC_FLAGS  := $(CXX_FLAGS) -arch=sm_75   # Change sm_75 to match your GPU
 INCLUDE     := -I./include
-LIBS        := -lnppc -lnppi -lcudart
+LIBS        := -lnppc -lnppicc -lnppig -lnppim -lnppial -lnppidei -lcudart
 
 # ── Targets ─────────────────────────────────────────────────────────────────
 TARGET      := grayscale_converter
